@@ -1,0 +1,6 @@
+package errCode
+
+const (
+	QUERY_PLAYER_INFO_ERR = -1000
+	QUERY_PLAYER_INFO_SUC = 1000
+)

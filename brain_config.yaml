@@ -1,0 +1,12 @@
+#online hisee02 19000 0
+redis:
+  redisHost:  192.168.90.241
+  redisPort:  6379
+  redisPwd: cjqc123456
+  redisDB:  0
+# online:["hisee03:9092", "hisee04:9092", "hisee05:9092"]
+kafka:
+  kafkaBrokers: ["192.168.90.240:9092"]
+# online /data/hisee_data
+dataPath: /Users/Jarno/data/cjqc
+logPath: /Users/Jarno/data/log/seer

@@ -1,0 +1,11 @@
+redis:
+  redisHost:  192.168.90.241
+  redisPort:  6379
+  redisPwd: cjqc123456
+  redisDB:  0
+kafka:
+  kafkaBrokers: ["192.168.90.240:9092"]
+mysql:
+
+dataPath: /Users/Jarno/data/cjqc
+logPath: /Users/Jarno/data/log/seer
